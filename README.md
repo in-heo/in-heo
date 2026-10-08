@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi  👋
+
+DBA, Data Architecture, Data Platform, AI/Data Platform
 
 <!--
 **in-heo/in-heo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
